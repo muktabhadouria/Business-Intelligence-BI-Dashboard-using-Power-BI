@@ -1,0 +1,2 @@
+([ship date]-[order date])
+Date.Year([order Date])
